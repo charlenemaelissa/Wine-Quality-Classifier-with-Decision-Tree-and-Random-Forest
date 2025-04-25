@@ -1,4 +1,4 @@
-# Wine-Quality-Classifier-with-Decision-Tree-and-Random-Forest
+# Wine-Quality-Classifier-with-Logistic Regression
 Projek ini bertujuan untuk melihat perbedaan akurasi penggunaan decision tree dan random forest
 
 # Memahami masalah
